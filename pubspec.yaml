@@ -1,5 +1,5 @@
-name: monorepo
-description: A Dart package for managing monorepos. **Coming Soon!**
+name: monorepository
+description: A Dart package for managing monorepository. **Coming Soon!**
 version: 0.0.0
 homepage: https://github.com/antinna/monorepo
 repository: https://github.com/antinna/monorepo
@@ -19,7 +19,7 @@ social:
   youtube: https://www.youtube.com/@antinna
 
 environment:
-  sdk: ^3.5.0-152
+  sdk: ">=2.19.0 <4.0.0"
 
 # Add regular dependencies here.
 # dependencies:
@@ -32,11 +32,10 @@ dev_dependencies:
 # Define some useful topics related to your package
 topics:
   - monorepo
-  - dart
-  - package
-  - development
-  - repository
-  - tool
+  - modular-development
+  - build-system
+  - repository-organization
+  - tooling
 
 
 # Optional: Add maintainers if you have collaborators

@@ -1,4 +1,4 @@
-import 'package:monorepo/monorepo.dart';
+import 'package:monorepository/monorepository.dart';
 import 'package:test/test.dart';
 
 void main() {
